@@ -133,7 +133,7 @@ us-household-income-sql-analysis/
     ├── 10-income-by-location-type.png
     ├── 11-common-types-income-comparison.png
     └── 12-income-by-city.png
-
+```
 
 ## Author
 
